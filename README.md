@@ -375,6 +375,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [RavenDB](https://github.com/ravendb/ravendb) - A LINQ-enabled document database for .NET
 * [Marten](https://github.com/JasperFx/marten) - PostgreSQL as a document database and event store for .NET applications
 * [Realm Xamarin](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - https://realm.io/docs/dotnet/latest/
+* [RedisUI](https://github.com/ekondur/RedisUI) Modern web-based self-hosted Redis management and administration tool.
 * [Streamstone](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 * [Ignite](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 * [Yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
